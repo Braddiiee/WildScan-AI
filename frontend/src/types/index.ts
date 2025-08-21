@@ -98,10 +98,10 @@ export interface SearchFilters {
 }
 
 // Featured content structure
-export interface FeturedAnimal {
+export interface FeaturedAnimal {
     animalId: string;
     title: string;
     subtitle: string;
     imageUrl: string;
-    featured: string;
+    featured: boolean;
 }
