@@ -87,6 +87,7 @@ WildScan Guyana is designed with scalability in mind. Future improvements includ
 * Advanced analytics for research purposes.
 * Enhanced offline caching and performance optimizations.
 * User account system for personalized experience and tracking.
+* Expansion as a mobile app
 
 ---
 
